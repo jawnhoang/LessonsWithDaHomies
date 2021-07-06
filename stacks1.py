@@ -29,4 +29,5 @@ if __name__=='__main__':
     for i in range(size):
         print(myStack.pop())
 
+        
     print('pog')
