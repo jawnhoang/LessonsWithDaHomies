@@ -7,9 +7,10 @@ for i in range(100): #this should go from 0-99
 
 print(exArr)
 
+
 #remove all elements that end with a 5
 for i in exArr:
     if i % 5 == 0:
         exArr.remove(i)
-
+        
 print(exArr)
