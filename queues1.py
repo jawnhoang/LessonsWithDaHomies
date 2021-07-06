@@ -14,6 +14,7 @@ class Queue:
 if __name__ == '__main__':
     myQ = Queue() #create queue object
 
+    
     myQ.enqueue(10)
     myQ.enqueue(12)
     myQ.enqueue(50)
